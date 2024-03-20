@@ -1,6 +1,13 @@
 {
     "files.associations": {
         "thread": "cpp",
-        "optional": "cpp"
+        "optional": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "*.tcc": "cpp",
+        "unordered_map": "cpp",
+        "numeric": "cpp",
+        "ostream": "cpp"
     }
 }
