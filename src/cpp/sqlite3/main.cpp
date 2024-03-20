@@ -1,6 +1,5 @@
 #include <iostream>
 #include <sqlite3.h>
-using namespace std;
 
 bool open_database_connection(const char* filename, sqlite3** db_con) noexcept
 {
