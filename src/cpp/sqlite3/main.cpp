@@ -98,3 +98,10 @@ int main()
     sqlite3_close(db_con);
     return 0;
 }
+
+/*
+Last Error Log:
+An error occurred while executing query: CREATE TABLE COMPANY(ID INT PRIMARY KEY     NOT NULL,NAME           TEXT    NOT NULL,AGE            INT     NOT NULL,ADDRESS        CHAR(50),SALARY         REAL );
+Error code: 1
+Error: table COMPANY already exists
+*/
