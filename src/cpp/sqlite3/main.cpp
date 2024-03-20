@@ -2,9 +2,9 @@
 #include <sqlite3.h>
 using namespace std;
 
-bool open_database_connection(const char* filename, sqlite3* db_con) noexcept
+bool open_database_connection(const char* filename, sqlite3** db_con) noexcept
 {
-    int result = sqlite3_open(filename, &db_con);
+    int result = sqlite3_open(filename, db_con);
     if (result != SQLITE_OK)
     {
         std::cout << "An error occurred while opening db_conn with: " << filename << std::endl;
@@ -44,7 +44,7 @@ int main()
     sqlite3* db_con = nullptr;
     std::string db_filename = "test.db";
 
-    if (!open_database_connection("test.db", db_con))
+    if (!open_database_connection("test.db", &db_con))
     {
         std::cout << "Error Message: " << sqlite3_errmsg(db_con) << std::endl;
         return 1;
