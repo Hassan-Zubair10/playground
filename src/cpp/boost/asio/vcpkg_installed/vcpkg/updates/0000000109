@@ -1,0 +1,9 @@
+Package: boost-cobalt
+Version: 1.85.0
+Port-Version: 2
+Depends: boost-asio, boost-circular-buffer, boost-cmake, boost-config, boost-container, boost-core, boost-headers, boost-intrusive, boost-leaf, boost-mp11, boost-preprocessor, boost-smart-ptr, boost-system, boost-throw-exception, boost-variant2
+Architecture: x64-linux
+Multi-Arch: same
+Abi: 254d84d471c26df5a1ba836e887afba45b4f6a2a18bf38b54feaf94056c1e1ce
+Description: Boost cobalt module
+Status: install ok installed

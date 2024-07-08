@@ -1,0 +1,9 @@
+Package: boost-icl
+Version: 1.85.0
+Port-Version: 1
+Depends: boost-assert, boost-cmake, boost-concept-check, boost-config, boost-container, boost-core, boost-date-time, boost-detail, boost-headers, boost-iterator, boost-move, boost-mpl, boost-range, boost-rational, boost-static-assert, boost-type-traits, boost-utility
+Architecture: x64-linux
+Multi-Arch: same
+Abi: 036a8704b2dfdeea9d1a71c0e6fddd200df8b1c1c3477dfe047fd455d6710e16
+Description: Boost icl module
+Status: install ok half-installed

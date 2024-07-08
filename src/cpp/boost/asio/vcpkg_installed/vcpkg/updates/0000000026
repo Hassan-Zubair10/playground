@@ -1,0 +1,9 @@
+Package: boost-pfr
+Version: 1.85.0
+Port-Version: 2
+Depends: boost-cmake, boost-config, boost-headers
+Architecture: x64-linux
+Multi-Arch: same
+Abi: a094055c13998203249101797c3f8f458412b86e5b30cb746a2f25e1ddb7145f
+Description: Boost pfr module
+Status: install ok half-installed

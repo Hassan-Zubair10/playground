@@ -1,0 +1,9 @@
+Package: boost-geometry
+Version: 1.85.0
+Port-Version: 2
+Depends: boost-algorithm, boost-any, boost-array, boost-assert, boost-cmake, boost-concept-check, boost-config, boost-container, boost-core, boost-function-types, boost-fusion, boost-headers, boost-integer, boost-iterator, boost-lexical-cast, boost-math, boost-mpl, boost-multiprecision, boost-numeric-conversion, boost-polygon, boost-qvm, boost-range, boost-rational, boost-serialization, boost-static-assert, boost-thread, boost-throw-exception, boost-tokenizer, boost-tuple, boost-type-traits, boost-variant, boost-variant2
+Architecture: x64-linux
+Multi-Arch: same
+Abi: 9a3a94f114737205c90fd3f38e05e8764d49a0238b5cdd8fa7919ede27cce3b8
+Description: Boost geometry module
+Status: install ok installed

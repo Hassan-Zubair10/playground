@@ -1,0 +1,9 @@
+Package: boost-histogram
+Version: 1.85.0
+Port-Version: 1
+Depends: boost-cmake, boost-config, boost-core, boost-headers, boost-math, boost-mp11, boost-serialization, boost-throw-exception, boost-variant2
+Architecture: x64-linux
+Multi-Arch: same
+Abi: bb676cf708cd7e2e48f2f253bdd14f815fec289c636d3b78174a9f57bfd3a047
+Description: Boost histogram module
+Status: install ok installed

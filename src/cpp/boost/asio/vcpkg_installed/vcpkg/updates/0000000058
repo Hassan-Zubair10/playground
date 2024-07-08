@@ -1,0 +1,9 @@
+Package: boost-local-function
+Version: 1.85.0
+Port-Version: 1
+Depends: boost-cmake, boost-config, boost-headers, boost-mpl, boost-preprocessor, boost-scope-exit, boost-type-traits, boost-typeof, boost-utility
+Architecture: x64-linux
+Multi-Arch: same
+Abi: 1e5f53e49dada8bf076288de58d5c989572afcf21c31995dae935cbf119bb028
+Description: Boost local_function module
+Status: install ok half-installed

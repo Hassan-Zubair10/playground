@@ -1,0 +1,9 @@
+Package: boost-leaf
+Version: 1.85.0
+Port-Version: 1
+Depends: boost-cmake, boost-config, boost-headers
+Architecture: x64-linux
+Multi-Arch: same
+Abi: 36c9c4af3af927dff22999d2a56cd22e59a98956d409e504f1ed97b5ee7d3bf6
+Description: Boost leaf module
+Status: install ok half-installed

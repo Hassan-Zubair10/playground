@@ -1,0 +1,9 @@
+Package: boost-contract
+Version: 1.85.0
+Port-Version: 1
+Depends: boost-any, boost-assert, boost-cmake, boost-config, boost-core, boost-exception, boost-function, boost-function-types, boost-headers, boost-mpl, boost-optional, boost-preprocessor, boost-smart-ptr, boost-static-assert, boost-thread, boost-type-traits, boost-typeof, boost-utility
+Architecture: x64-linux
+Multi-Arch: same
+Abi: c1077ef319e7438a46494b34cbb9e1abeb1c379156c3dccb2a5b340676b63a99
+Description: Boost contract module
+Status: install ok installed

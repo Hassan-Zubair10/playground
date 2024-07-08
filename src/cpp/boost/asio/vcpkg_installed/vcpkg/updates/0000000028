@@ -1,0 +1,9 @@
+Package: boost-parameter-python
+Version: 1.85.0
+Port-Version: 1
+Depends: boost-cmake, boost-config, boost-headers, boost-mpl, boost-parameter, boost-preprocessor, boost-python
+Architecture: x64-linux
+Multi-Arch: same
+Abi: ec4654e2a6640a939aeef1bf7419970b17a095dc02084d96424d5744f2a2c8ed
+Description: Boost parameter_python module
+Status: install ok half-installed

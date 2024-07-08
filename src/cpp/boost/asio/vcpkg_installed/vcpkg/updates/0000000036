@@ -1,0 +1,9 @@
+Package: boost-nowide
+Version: 1.85.0
+Port-Version: 2
+Depends: boost-cmake, boost-config, boost-filesystem, boost-headers
+Architecture: x64-linux
+Multi-Arch: same
+Abi: 83994c59f4b741f38b9f4c365ab7dd18e6897bbca0137f93c9e794af8e7a3188
+Description: Boost nowide module
+Status: install ok half-installed

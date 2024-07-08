@@ -1,0 +1,9 @@
+Package: boost-compatibility
+Version: 1.85.0
+Port-Version: 1
+Depends: boost-cmake, boost-config, boost-headers
+Architecture: x64-linux
+Multi-Arch: same
+Abi: abf8b274223a51583b04f76776f2de3eaf9a3eeaf8e11e7ed1ede577201df61b
+Description: Boost compatibility module
+Status: install ok half-installed

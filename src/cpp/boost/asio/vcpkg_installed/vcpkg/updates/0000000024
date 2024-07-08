@@ -1,0 +1,9 @@
+Package: boost-poly-collection
+Version: 1.85.0
+Port-Version: 1
+Depends: boost-assert, boost-cmake, boost-config, boost-core, boost-headers, boost-iterator, boost-mp11, boost-mpl, boost-type-erasure, boost-type-traits
+Architecture: x64-linux
+Multi-Arch: same
+Abi: dca247774ef45021cf4be380054f25b4966ef379254be8db9f03e2b617351f81
+Description: Boost poly_collection module
+Status: install ok half-installed

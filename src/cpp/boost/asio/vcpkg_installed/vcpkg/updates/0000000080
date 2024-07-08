@@ -1,0 +1,9 @@
+Package: boost-hof
+Version: 1.85.0
+Port-Version: 1
+Depends: boost-cmake, boost-config, boost-headers
+Architecture: x64-linux
+Multi-Arch: same
+Abi: 18a7ee338f0d0711bcc14bd44715dda0a0a4d3206bce7fb5f0c1460e8ef6b5d6
+Description: Boost hof module
+Status: install ok half-installed

@@ -1,0 +1,9 @@
+Package: boost-mysql
+Version: 1.85.0
+Port-Version: 2
+Depends: boost-asio, boost-assert, boost-charconv, boost-cmake, boost-config, boost-core, boost-describe, boost-endian, boost-headers, boost-intrusive, boost-mp11, boost-optional, boost-system, boost-throw-exception, boost-variant2, openssl
+Architecture: x64-linux
+Multi-Arch: same
+Abi: 1281c674d019ebf83d7fa35fdce7c4203e4c7100047660a4e349362c57cccb90
+Description: Boost mysql module
+Status: install ok installed

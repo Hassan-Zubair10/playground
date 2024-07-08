@@ -1,0 +1,9 @@
+Package: boost-compat
+Version: 1.85.0
+Port-Version: 2
+Depends: boost-assert, boost-cmake, boost-config, boost-headers, boost-throw-exception
+Architecture: x64-linux
+Multi-Arch: same
+Abi: 67d4d81612a94c2b5e0d529fa303e8e9a2d1d4d28a5f9743460ea949a3066815
+Description: Boost compat module
+Status: install ok installed

@@ -1,0 +1,9 @@
+Package: boost-charconv
+Version: 1.85.0
+Port-Version: 1
+Depends: boost-assert, boost-cmake, boost-config, boost-core, boost-headers
+Architecture: x64-linux
+Multi-Arch: same
+Abi: a1c9fa4f4ccecb9915fb30ef6e35ee56b0b27101146b6f4cc22d814dd17780c8
+Description: Boost charconv module
+Status: install ok installed

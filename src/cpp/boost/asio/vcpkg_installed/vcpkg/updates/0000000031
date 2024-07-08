@@ -1,0 +1,9 @@
+Package: boost-outcome
+Version: 1.85.0
+Port-Version: 2
+Depends: boost-assert, boost-cmake, boost-config, boost-exception, boost-headers, boost-system, boost-throw-exception
+Architecture: x64-linux
+Multi-Arch: same
+Abi: eef63c8d4fa1ed7929b56ba86d465e051a85c787a8cec1b4e45973bb996cec28
+Description: Boost outcome module
+Status: install ok installed

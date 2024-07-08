@@ -1,0 +1,9 @@
+Package: boost-locale
+Version: 1.85.0
+Port-Version: 2
+Depends: boost-assert, boost-cmake, boost-config, boost-core, boost-headers, boost-iterator, boost-predef, boost-thread, boost-utility, libiconv
+Architecture: x64-linux
+Multi-Arch: same
+Abi: 7cde648b62e46cc2139770a4b6cbbbbb81380d397679f343e37f9ce680742492
+Description: Boost locale module
+Status: install ok half-installed

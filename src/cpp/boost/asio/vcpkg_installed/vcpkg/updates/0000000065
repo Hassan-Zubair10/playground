@@ -1,0 +1,9 @@
+Package: boost-json
+Version: 1.85.0
+Port-Version: 2
+Depends: boost-align, boost-assert, boost-cmake, boost-config, boost-container, boost-container-hash, boost-core, boost-describe, boost-endian, boost-headers, boost-mp11, boost-static-assert, boost-system, boost-throw-exception
+Architecture: x64-linux
+Multi-Arch: same
+Abi: 111e22bcdb89de7ac098fd395f572249d8a308832cf5bb43d924dbf1a40158aa
+Description: Boost json module
+Status: install ok installed

@@ -1,0 +1,9 @@
+Package: boost-flyweight
+Version: 1.85.0
+Port-Version: 1
+Depends: boost-assert, boost-cmake, boost-config, boost-container-hash, boost-core, boost-detail, boost-headers, boost-interprocess, boost-mpl, boost-multi-index, boost-parameter, boost-preprocessor, boost-smart-ptr, boost-throw-exception, boost-type-traits
+Architecture: x64-linux
+Multi-Arch: same
+Abi: c5d06a7882ed142fa7cc080e30cdf09c0a18fedff856721470b39ea95e62fb28
+Description: Boost flyweight module
+Status: install ok installed

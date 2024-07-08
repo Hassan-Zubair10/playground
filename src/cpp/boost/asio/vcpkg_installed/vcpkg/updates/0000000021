@@ -1,0 +1,9 @@
+Package: boost-process
+Version: 1.85.0
+Port-Version: 2
+Depends: boost-algorithm, boost-asio, boost-assert, boost-cmake, boost-config, boost-core, boost-filesystem, boost-fusion, boost-headers, boost-io, boost-iterator, boost-move, boost-optional, boost-system, boost-throw-exception, boost-tokenizer, boost-type-index, boost-type-traits, boost-utility, boost-winapi
+Architecture: x64-linux
+Multi-Arch: same
+Abi: 1cb5f51b641d499e42c59611e98da5fa8da16d51b3a62c06cc63841af1db76d9
+Description: Boost process module
+Status: install ok installed
